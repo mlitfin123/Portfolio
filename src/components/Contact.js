@@ -24,8 +24,7 @@ return (
             <div className="column-content">
                 <div className="contact_form">
                     <h1>Contact</h1>
-                    <p>If you have questions about my skills or experience please don’t hesitate to ask here. I am more than happy
-                        to answer any questions you have.</p>
+                    <p>If you have questions about my skills or experience please don’t hesitate to ask here.</p>
                     <p className="required"> * Indicates a required field.</p>
                     <form onSubmit={handleSubmit(onSubmit)} id="contact" name="contact" method="post" className="form-horizontal">
                         <input type="hidden" name="form-name" value="contact" />
