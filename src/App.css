@@ -1,38 +1,320 @@
-.App {
+.tab-pane {
+  padding: 5px 0 0 0; }
+
+body {
+  font-family: Arial, sans-serif; }
+
+main {
+  padding-top: 200px; 
+}
+
+header {
+  background-color: #EBEBEB;
+  border-bottom: 2px solid #5e2626;
+  -webkit-box-shadow: 2px 2px 2px #808080;
+  box-shadow: 2px 2px 2px #808080;
+  position: fixed;
+  width: 100%;
+  margin: 0;
+  z-index: 1; }
+  header img {
+    float: left;
+    background-color: white;
+    margin-right: 10px; }
+
+#banner {
+  min-height: 80px; }
+  #banner a.logo-text:hover {
+    text-decoration: none; }
+  #banner h1 {
+    color: #5e2626;
+    font-size: 38px;
+    font-weight: bold;
+    z-index: 2;
+    text-align: center; }
+  #banner h3 {
+    color: #5e2626;
+    font-size: 22px;
+    font-weight: bold;
+    z-index: 2;
+    text-align: center; }
+  #banner nav .navbar-nav {
+    max-width: 455px;
+    margin: 0 auto; }
+  #banner nav .navbar-nav .nav-link {
+    color: black;
+    font-weight: bold;
+    border-bottom: 2px solid transparent; }
+  #banner nav .navbar-nav .nav-link:hover {
+    border-bottom: 2px solid #5e2626; 
+    background-color: white;
+  }
+  #banner nav .navbar-nav .nav-link.active {
+    color: #cc0000;
+    text-shadow: 3px 3px 3px #fff;
+    border-bottom: 2px solid #5e2626;
+    background-color: white;
+    }
+  #banner .resume-download {
+    text-align: center; }
+    #banner .resume-download img {
+      float: right; }
+  #banner .dropdown-item {
+    background-color: white;
+    border-bottom: 2px solid transparent;
+    color: black;
+    opacity: .8; }
+  #banner .dropdown-item:hover {
+    color: #cc0000;
+    border-bottom: 2px solid #5e2626;
+    cursor: pointer; }
+
+#project_section {
+  height: 100px;
+  width: 100%;
+  float: left; }
+
+.note {
+  margin-left: 15px;
+  padding: 5px;
+  color: black;
+  background-color: white; }
+
+.project {
+  margin-bottom: 15px; }
+
+div.tab-content.project-description {
+  border: none;
+  float: left;
+  background-color: white;
+  width: 100%;
+  padding: 10px;
+  color: black; }
+  div.tab-content.project-description h5 {
+    font-weight: bold; }
+  div.tab-content.project-description .tech-icons {
+    max-width: 100px;
+    display: inline-block;
+    margin: 5px;
+    padding: 5px;
+    text-align: center; }
+
+.project .nav.nav-tabs .nav-item {
+  display: inline;
+  background-color: #eee; 
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.project .nav-tabs .nav-item.show .nav-link, .nav-tabs {
+  background-color: #eee; 
+  color: black;
+  cursor: pointer;
+}
+
+section#project_porfolio.content_section {
+  padding: 15px;
+  float: left;
+  width: 100%; }
+  section#project_porfolio.content_section h3 {
+    width: 230px;
+    font-size: 24pt;
+    text-align: center;
+    border-bottom: 3px solid #5e2626;
+    margin-left: auto;
+    margin-right: auto; }
+  section#project_porfolio.content_section .category {
+    padding: 20px;
+    margin-bottom: 15px;
+    -webkit-box-shadow: 4px 4px 5px gray;
+    box-shadow: 4px 4px 5px gray;
+    border-radius: 10px;
+    border: 1px solid black;
+    background-color: #5e2626;
+    color: white;
+    padding-top: 5px;
+    padding-bottom: 5px; }
+    section#project_porfolio.content_section .category h4 {
+      color: white;
+      font-size: 32px;
+      padding-left: 15px;
+      padding-top: 10px;
+      padding-bottom: 10px; }
+    section#project_porfolio.content_section .category h3 {
+      margin-top: 10px;
+      float: left;
+      font-weight: bold;
+      color: black;
+      background-color: white;
+      width: 100%;
+      padding: 10px; }
+    section#project_porfolio.content_section .category #jssor_1 {
+      background-color: white;
+      border-radius: 15px;
+      border: 5px solid #333; }
+    section#project_porfolio.content_section .category .web-design-thumbnail {
+      -webkit-box-shadow: 4px 4px 5px black;
+      box-shadow: 4px 4px 5px black; }
+    section#project_porfolio.content_section .category .project .project-container {
+      background-color: #DBDDDE;
+      padding: 15px;
+      float: left;
+      border-radius: 10px;
+      -webkit-box-shadow: 4px 4px 5px gray;
+      box-shadow: 4px 4px 5px gray;
+      width: 100%;
+      margin-top: 15px; }
+      section#project_porfolio.content_section .category .project .project-container h3 {
+        text-align: center;
+        border-radius: 10px 10px 0 0; }
+    section#project_porfolio.content_section .category h4 {
+      color: white;
+      font-size: 32px;
+      padding-left: 15px;
+      padding-top: 10px;
+      padding-bottom: 10px; }
+    section#project_porfolio.content_section .category h3 {
+      margin-top: 10px;
+      float: left;
+      font-weight: bold;
+      color: black;
+      background-color: white;
+      width: 100%;
+      padding: 10px; }
+
+.column {
+  background-color: #5e2626;
+  float: left;
+  width: 100%;
+  padding-top: 20px; }
+
+.column .column-content {
+  background-color: #fff;
+  border: 2px solid #000;
+  -moz-border-radius: 15px;
+  border-radius: 15px;
+  padding: 15px;
+  margin: 25px 15px 100px 15px; }
+
+.column .column-content h1 {
+  font-family: 'Dancing Script', cursive;
+  font-size: 40px; }
+
+.required {
+  color: red; }
+
+.error {
+  color: red;
+  font-size: 12px; }
+
+.no_bullets {
+  list-style-type: none; }
+
+.btn.btn-primary {
+  /*submit button */
+  font-weight: bold;
+  font-size: 16px;
+  background-color: #5e2626;
+  border: none; }
+
+.action-btn.btn.btn-primary {
+  width: 50%;
+  float: left;
+  border: 2px solid white; }
+
+.action-btn.btn.btn-primary:hover {
+  background-color: #853c3c; }
+
+.action-btn-full.btn.btn-primary {
+  width: 100%;
+  border: 2px solid white; }
+
+.action-btn-full.btn.btn-primary:hover {
+  background-color: #853c3c; }
+
+.message_sent_confirmation {
+  padding: 50px;
+  margin: 50px;
+  background-color: #fff;
+  border: 1px solid #000;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+  border-radius: 10px; }
+
+.tile {
   text-align: center;
-}
+  padding: 15px;
+  margin: 10px 0;
+  border: 1px solid black;
+  border-radius: 10px; }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
+.icon {
+  width: 100%;
+  height: 100%;
+  padding: 10px; }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+footer {
+  background-color: #EBEBEB;
+  border-top: 2px solid #5e2626;
+  -webkit-box-shadow: -2px -2px 2px #808080;
+  box-shadow: -2px -2px 2px #808080;
+  width: 100%;
+  margin: 0;
+  z-index: 1;
+  clear: both;
+  font-weight: bold;
+  text-align: center;
+  color: black;
+  padding: 50px; }
+
+@media screen and (min-width: 767px) {
+
+  .navbar-nav .nav-link {
+    padding: 10px 20px;
+    margin: 10px 20px; } }
+
+@media screen and (max-width: 766px) {
+  main {
+    padding-top: 178px; 
   }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+  .navbar-nav .nav-link {
+    color: black; 
+    text-align: center;
+    background-color: #EBEBEB;
+    opacity: .8;
+    padding: 10px 20px;
+    margin: 0; }
+  .navbar-nav .nav-link:hover {
+    color: rgb(128, 0, 0);
+    text-align: center;
+    background-color: white; }
+  .navbar-toggler:hover {
+    cursor: pointer; }
+  .nav-item .nav-link {
+    color: black;
+    text-align: center;
+    background-color: #EBEBEB;
+    opacity: .8;
+    padding: 10px 20px;
+    margin: 0; 
   }
-  to {
-    transform: rotate(360deg);
-  }
-}
+  .headline-text {
+    margin-left: 15px;
+    margin-right: 15px; }
+  .dropdown-item {
+    background-color: white;
+    color: rgb(128, 0, 0);
+    opacity: .8;
+    padding: 10px 20px;
+    text-align: center; }
+  .dropdown-item:hover {
+    background-color: white;
+    color: black; }
+  .project .nav.nav-tabs .nav-item .nav-link.active {
+    background-color: white;
+    color: black; }
+  .project .nav.nav-tabs .nav-item .nav-link {
+    background-color: #eee; }
+    .project .nav.nav-tabs .nav-item .nav-link a {
+      color: #5e2626; } }
