@@ -1,0 +1,94 @@
+[
+    {
+        "programming": [
+            {
+                "skillImage": "html5-full.png",
+                "skillName": "HTML5"
+            },
+            {
+                "skillImage": "css3-full.png",
+                "skillName": "CSS3"
+            },
+            {
+                "skillImage": "bootstrap-full.jpg",
+                "skillName": "Bootstrap"
+            },
+            {
+                "skillImage": "javascript-full.png",
+                "skillName": "JavaScript"
+            },
+            {
+                "skillImage": "jquery-full.jpg",
+                "skillName": "JQuery"
+            },
+            {
+                "skillImage": "nodejs-full.jpg",
+                "skillName": "Node JS"
+            },
+            {
+                "skillImage": "expressjs-full.png",
+                "skillName": "Express JS"
+            },
+            {
+                "skillImage": "handlebars-full.png",
+                "skillName": "Handlebars JS"
+            },
+            {
+                "skillImage": "npm-full.png",
+                "skillName": "Node Package Manager"
+            },
+            {
+                "skillImage": "reactjs-full.png",
+                "skillName": "React JS"
+            },
+            {
+                "skillImage": "redux-full.png",
+                "skillName": "Redux"
+            },
+            {
+                "skillImage": "sequelize-full.png",
+                "skillName": "Sequelize"
+            },
+            {
+                "skillImage": "mysql-full.jpg",
+                "skillName": "MySQL"
+            },
+            {
+                "skillImage": "mongodb-full.png",
+                "skillName": "Mongo DB"
+            },
+            {
+                "skillImage": "mongoosejs-full.png",
+                "skillName": "Mongoose JS"
+            },
+            {
+                "skillImage": "rest-api-full.png",
+                "skillName": "Rest API"
+            },
+            {
+                "skillImage": "C#-full.png",
+                "skillName": "C#"
+            },
+            {
+                "skillImage": "es6-full.jpeg",
+                "skillName": "ES6"
+            }
+        ]
+    },
+    {
+        "design": [
+            {
+                "skillImage": "adobe-xd-logo-full.png",
+                "skillName": "Adobe XD"
+            }
+        ]
+    },
+    {
+        "tools":[
+            {
+                "skillImage": "unity-full.png",
+                "skillName": "Unity"
+            }
+        ]
+    }
+]

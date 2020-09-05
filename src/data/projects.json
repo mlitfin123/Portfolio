@@ -1,0 +1,515 @@
+[
+    {
+        "C#": [{
+            "id": 1,
+            "title": "Space Shooter Game",
+            "liveSite": "https://the-happenings-app.herokuapp.com/",
+            "gitRepo": "https://github.com/mlitfin123/Space_Shooter_Unity",
+            "projectImg": " ",
+            "description": " ",
+            "technologies": [
+                {
+                    "techImg": "html5-logo.png",
+                    "techName": "HTML5"
+                }
+            ],
+            "software": [
+                {
+                    "techImg": "visual-studio-logo.png",
+                    "techName": "Visual Studio"
+                },
+                {
+                    "techImg": "robo3t-logo.png",
+                    "techName": "Robo 3T"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Candy Run",
+            "liveSite": "https://the-happenings-app.herokuapp.com/",
+            "gitRepo": "https://github.com/mlitfin123/CandyRun",
+            "projectImg": " ",
+            "description": " ",
+            "technologies": [
+                {
+                    "techImg": "html5-logo.png",
+                    "techName": "HTML5"
+                }
+            ],
+            "software": [
+                {
+                    "techImg": "visual-studio-logo.png",
+                    "techName": "Visual Studio"
+                },
+                {
+                    "techImg": "robo3t-logo.png",
+                    "techName": "Robo 3T"
+                }
+            ]
+        }
+        ],
+        "Games": [{
+            "id": 1,
+            "title": "Space Shooter Game",
+            "liveSite": "https://the-happenings-app.herokuapp.com/",
+            "gitRepo": "https://github.com/mlitfin123/Space_Shooter_Unity",
+            "projectImg": " ",
+            "description": " ",
+            "technologies": [
+                {
+                    "techImg": "html5-logo.png",
+                    "techName": "HTML5"
+                }
+            ],
+            "software": [
+                {
+                    "techImg": "visual-studio-logo.png",
+                    "techName": "Visual Studio"
+                },
+                {
+                    "techImg": "robo3t-logo.png",
+                    "techName": "Robo 3T"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "War Game",
+            "liveSite": "https://the-happenings-app.herokuapp.com/",
+            "gitRepo": "https://github.com/mlitfin123/War_Game",
+            "projectImg": " ",
+            "description": " ",
+            "technologies": [
+                {
+                    "techImg": "html5-logo.png",
+                    "techName": "HTML5"
+                }
+            ],
+            "software": [
+                {
+                    "techImg": "visual-studio-logo.png",
+                    "techName": "Visual Studio"
+                },
+                {
+                    "techImg": "robo3t-logo.png",
+                    "techName": "Robo 3T"
+                }
+            ]
+        }
+    ],
+        "Js": [{
+            "id": 20,
+            "title": "NBA Web Application",
+            "liveSite": "https://the-happenings-app.herokuapp.com/",
+            "gitRepo": "https://github.com/mlitfin123/NBA-Project2",
+            "projectImg": " ",
+            "description": " ",
+            "technologies": [
+                {
+                    "techImg": "html5-logo.png",
+                    "techName": "HTML5"
+                }
+            ],
+            "software": [
+                {
+                    "techImg": "visual-studio-logo.png",
+                    "techName": "Visual Studio"
+                },
+                {
+                    "techImg": "robo3t-logo.png",
+                    "techName": "Robo 3T"
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "title": "Employee Tracker",
+            "liveSite": "https://the-happenings-app.herokuapp.com/",
+            "gitRepo": "https://github.com/mlitfin123/Project-Employee-Tracker",
+            "projectImg": " ",
+            "description": " ",
+            "technologies": [
+                {
+                    "techImg": "html5-logo.png",
+                    "techName": "HTML5"
+                }
+            ],
+            "software": [
+                {
+                    "techImg": "visual-studio-logo.png",
+                    "techName": "Visual Studio"
+                },
+                {
+                    "techImg": "robo3t-logo.png",
+                    "techName": "Robo 3T"
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "title": "Automatic Readme Generator",
+            "liveSite": "https://the-happenings-app.herokuapp.com/",
+            "gitRepo": "https://github.com/mlitfin123/Project-Readme_Generator",
+            "projectImg": " ",
+            "description": " ",
+            "technologies": [
+                {
+                    "techImg": "html5-logo.png",
+                    "techName": "HTML5"
+                }
+            ],
+            "software": [
+                {
+                    "techImg": "visual-studio-logo.png",
+                    "techName": "Visual Studio"
+                },
+                {
+                    "techImg": "robo3t-logo.png",
+                    "techName": "Robo 3T"
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "title": "Employee Summary",
+            "liveSite": "https://the-happenings-app.herokuapp.com/",
+            "gitRepo": "https://github.com/mlitfin123/Project-Note-Taker",
+            "projectImg": " ",
+            "description": " ",
+            "technologies": [
+                {
+                    "techImg": "html5-logo.png",
+                    "techName": "HTML5"
+                }
+            ],
+            "software": [
+                {
+                    "techImg": "visual-studio-logo.png",
+                    "techName": "Visual Studio"
+                },
+                {
+                    "techImg": "robo3t-logo.png",
+                    "techName": "Robo 3T"
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "title": "Burger Application",
+            "liveSite": "https://arcane-mountain-75010.herokuapp.com/",
+            "gitRepo": "https://github.com/mlitfin123/Project-BurgerApp",
+            "projectImg": " ",
+            "description": " ",
+            "technologies": [
+                {
+                    "techImg": "html5-logo.png",
+                    "techName": "HTML5"
+                }
+            ],
+            "software": [
+                {
+                    "techImg": "visual-studio-logo.png",
+                    "techName": "Visual Studio"
+                },
+                {
+                    "techImg": "robo3t-logo.png",
+                    "techName": "Robo 3T"
+                }
+            ]
+        }
+    ],
+        "React": [{
+            "id": 20,
+            "title": "User Directory",
+            "liveSite": "https://directoryofusers.herokuapp.com/",
+            "gitRepo": "https://github.com/mlitfin123/Project-UserDirectory",
+            "projectImg": " ",
+            "description": " ",
+            "technologies": [
+                {
+                    "techImg": "html5-logo.png",
+                    "techName": "HTML5"
+                }
+            ],
+            "software": [
+                {
+                    "techImg": "visual-studio-logo.png",
+                    "techName": "Visual Studio"
+                },
+                {
+                    "techImg": "robo3t-logo.png",
+                    "techName": "Robo 3T"
+                }
+            ]
+        }
+    ],
+            "Python": [{
+                "id": 1,
+                "title": "Exercise Entry",
+                "liveSite": "",
+                "gitRepo": "https://github.com/mlitfin123/Exercise_Entry",
+                "projectImg": " ",
+                "description": " ",
+                "technologies": [
+                    {
+                        "techImg": "html5-logo.png",
+                        "techName": "HTML5"
+                    }
+                ],
+                "software": [
+                    {
+                        "techImg": "visual-studio-logo.png",
+                        "techName": "Visual Studio"
+                    },
+                    {
+                        "techImg": "robo3t-logo.png",
+                        "techName": "Robo 3T"
+                    }
+                ]
+            },
+            {
+            "id": 2,
+            "title": "War Game",
+            "liveSite": "",
+            "gitRepo": "https://github.com/mlitfin123/War_Game",
+            "projectImg": " ",
+            "description": " ",
+            "technologies": [
+                {
+                    "techImg": "html5-logo.png",
+                    "techName": "HTML5"
+                }
+            ],
+            "software": [
+                {
+                    "techImg": "visual-studio-logo.png",
+                    "techName": "Visual Studio"
+                },
+                {
+                    "techImg": "robo3t-logo.png",
+                    "techName": "Robo 3T"
+                }
+            ]
+        }
+        ],
+        "Unity": [{
+            "id": 1,
+            "title": "Space Shooter Game",
+            "liveSite": "",
+            "gitRepo": "https://github.com/mlitfin123/Space_Shooter_Unity",
+            "projectImg": " ",
+            "description": " ",
+            "technologies": [
+                {
+                    "techImg": "html5-logo.png",
+                    "techName": "HTML5"
+                }
+            ],
+            "software": [
+                {
+                    "techImg": "visual-studio-logo.png",
+                    "techName": "Visual Studio"
+                },
+                {
+                    "techImg": "robo3t-logo.png",
+                    "techName": "Robo 3T"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Candy Run",
+            "liveSite": "",
+            "gitRepo": "https://github.com/mlitfin123/CandyRun",
+            "projectImg": " ",
+            "description": " ",
+            "technologies": [
+                {
+                    "techImg": "html5-logo.png",
+                    "techName": "HTML5"
+                }
+            ],
+            "software": [
+                {
+                    "techImg": "visual-studio-logo.png",
+                    "techName": "Visual Studio"
+                },
+                {
+                    "techImg": "robo3t-logo.png",
+                    "techName": "Robo 3T"
+                }
+            ]
+        }
+    ],
+        "Web": [{
+            "id": 20,
+            "title": "NBA Web Application",
+            "liveSite": "https://nbaproject2.herokuapp.com/",
+            "gitRepo": "https://github.com/mlitfin123/NBA-Project2",
+            "projectImg": " ",
+            "description": " ",
+            "technologies": [
+                {
+                    "techImg": "html5-logo.png",
+                    "techName": "HTML5"
+                }
+            ],
+            "software": [
+                {
+                    "techImg": "visual-studio-logo.png",
+                    "techName": "Visual Studio"
+                },
+                {
+                    "techImg": "robo3t-logo.png",
+                    "techName": "Robo 3T"
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "title": "Burger Application",
+            "liveSite": "https://mlitfin123.github.io/Project_Weather_App/",
+            "gitRepo": "https://github.com/mlitfin123/Project_Weather_App",
+            "projectImg": " ",
+            "description": " ",
+            "technologies": [
+                {
+                    "techImg": "html5-logo.png",
+                    "techName": "HTML5"
+                }
+            ],
+            "software": [
+                {
+                    "techImg": "visual-studio-logo.png",
+                    "techName": "Visual Studio"
+                },
+                {
+                    "techImg": "robo3t-logo.png",
+                    "techName": "Robo 3T"
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "title": "Workday Scheduler Application",
+            "liveSite": "https://mlitfin123.github.io/Project_Workday_Scheduler/",
+            "gitRepo": "https://github.com/mlitfin123/Project_Workday_Scheduler",
+            "projectImg": " ",
+            "description": " ",
+            "technologies": [
+                {
+                    "techImg": "html5-logo.png",
+                    "techName": "HTML5"
+                }
+            ],
+            "software": [
+                {
+                    "techImg": "visual-studio-logo.png",
+                    "techName": "Visual Studio"
+                },
+                {
+                    "techImg": "robo3t-logo.png",
+                    "techName": "Robo 3T"
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "title": "Developer's Code Quiz",
+            "liveSite": "https://mlitfin123.github.io/Project_Code_Quiz/",
+            "gitRepo": "https://github.com/mlitfin123/Project_Code_Quiz",
+            "projectImg": " ",
+            "description": " ",
+            "technologies": [
+                {
+                    "techImg": "html5-logo.png",
+                    "techName": "HTML5"
+                }
+            ],
+            "software": [
+                {
+                    "techImg": "visual-studio-logo.png",
+                    "techName": "Visual Studio"
+                },
+                {
+                    "techImg": "robo3t-logo.png",
+                    "techName": "Robo 3T"
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "title": "Fitness Tracker",
+            "liveSite": "https://fittertracker.herokuapp.com/?id=5f3c6a326086910017d2336d",
+            "gitRepo": "https://github.com/mlitfin123/Project-FitnessTracker",
+            "projectImg": " ",
+            "description": " ",
+            "technologies": [
+                {
+                    "techImg": "html5-logo.png",
+                    "techName": "HTML5"
+                }
+            ],
+            "software": [
+                {
+                    "techImg": "visual-studio-logo.png",
+                    "techName": "Visual Studio"
+                },
+                {
+                    "techImg": "robo3t-logo.png",
+                    "techName": "Robo 3T"
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "title": "Budget Tracker",
+            "liveSite": "https://yourbudgettracker.herokuapp.com/",
+            "gitRepo": "https://github.com/mlitfin123/Project-BudgetTracker",
+            "projectImg": " ",
+            "description": " ",
+            "technologies": [
+                {
+                    "techImg": "html5-logo.png",
+                    "techName": "HTML5"
+                }
+            ],
+            "software": [
+                {
+                    "techImg": "visual-studio-logo.png",
+                    "techName": "Visual Studio"
+                },
+                {
+                    "techImg": "robo3t-logo.png",
+                    "techName": "Robo 3T"
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "title": "User Directory",
+            "liveSite": "https://directoryofusers.herokuapp.com/",
+            "gitRepo": "https://github.com/mlitfin123/Project-UserDirectory",
+            "projectImg": " ",
+            "description": " ",
+            "technologies": [
+                {
+                    "techImg": "html5-logo.png",
+                    "techName": "HTML5"
+                }
+            ],
+            "software": [
+                {
+                    "techImg": "visual-studio-logo.png",
+                    "techName": "Visual Studio"
+                },
+                {
+                    "techImg": "robo3t-logo.png",
+                    "techName": "Robo 3T"
+                }
+            ]
+        }
+    ]
+    }
+]
