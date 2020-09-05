@@ -6,10 +6,12 @@ function Skills() {
 
     const [programmingState, setProgrammingState] = useState([]);
     const [designState, setDesignState] = useState([]);
+    const [toolsState, setToolsState] = useState([]);
 
     useEffect(() => {
         setProgrammingState(skillsData[0].programming);
         setDesignState(skillsData[1].design);
+        setToolsState(skillsData[2].tools);
     }, []);
 
 return (
@@ -39,6 +41,18 @@ return (
                         <div className="row">
                             {
                                 designState.map((skill, index) => (
+                                <Skill 
+                                    key={index}
+                                    skillImage={skill.skillImage}
+                                    skillName={skill.skillName}
+                                />
+                                ))
+                            }
+                        </div>
+                        <h3>Additional Tools</h3>
+                        <div className="row">
+                            {
+                                toolsState.map((skill, index) => (
                                 <Skill 
                                     key={index}
                                     skillImage={skill.skillImage}

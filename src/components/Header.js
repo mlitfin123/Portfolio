@@ -10,7 +10,7 @@ const Header = () => {
             <div className="resume-download">
                 <label><a href="mailto:marklitfin1@gmail.com">marklitfin1@gmail.com</a></label>&nbsp; &bull; &nbsp;
                 <label><a href="https://github.com/mlitfin123">GitHub</a></label>&nbsp; &bull; &nbsp;
-                <label><a href="https://www.linkedin.com/in/mark-litfin-b132bb67/">LinkedIn</a></label>&nbsp; &bull; &nbsp;
+                <label><a href="https://www.linkedin.com/in/mark-litfin-b132bb67/">LinkedIn</a></label>
             </div>
             <Nav />
         </div>

@@ -2,75 +2,75 @@
     {
         "programming": [
             {
-                "skillImage": "html5-full.png",
+                "skillImage": "html5-logo.png",
                 "skillName": "HTML5"
             },
             {
-                "skillImage": "css3-full.png",
+                "skillImage": "css3-logo.png",
                 "skillName": "CSS3"
             },
             {
-                "skillImage": "bootstrap-full.jpg",
+                "skillImage": "bootstrap-logo.jpeg",
                 "skillName": "Bootstrap"
             },
             {
-                "skillImage": "javascript-full.png",
+                "skillImage": "javascript-logo.png",
                 "skillName": "JavaScript"
             },
             {
-                "skillImage": "jquery-full.jpg",
+                "skillImage": "jquery-logo.jpg",
                 "skillName": "JQuery"
             },
             {
-                "skillImage": "nodejs-full.jpg",
+                "skillImage": "nodejs-logo.jpg",
                 "skillName": "Node JS"
             },
             {
-                "skillImage": "expressjs-full.png",
+                "skillImage": "expressjs-logo.png",
                 "skillName": "Express JS"
             },
             {
-                "skillImage": "handlebars-full.png",
+                "skillImage": "handlebars-logo.png",
                 "skillName": "Handlebars JS"
             },
             {
-                "skillImage": "npm-full.png",
+                "skillImage": "npm-logo.png",
                 "skillName": "Node Package Manager"
             },
             {
-                "skillImage": "reactjs-full.png",
+                "skillImage": "reactjs-logo.png",
                 "skillName": "React JS"
             },
             {
-                "skillImage": "redux-full.png",
+                "skillImage": "redux-logo.png",
                 "skillName": "Redux"
             },
             {
-                "skillImage": "sequelize-full.png",
+                "skillImage": "sequelize-logo.png",
                 "skillName": "Sequelize"
             },
             {
-                "skillImage": "mysql-full.jpg",
+                "skillImage": "mysql-logo.jpg",
                 "skillName": "MySQL"
             },
             {
-                "skillImage": "mongodb-full.png",
+                "skillImage": "mongodb-logo.png",
                 "skillName": "Mongo DB"
             },
             {
-                "skillImage": "mongoosejs-full.png",
+                "skillImage": "mongoosejs-logo.png",
                 "skillName": "Mongoose JS"
             },
             {
-                "skillImage": "rest-api-full.png",
+                "skillImage": "rest-api-logo.png",
                 "skillName": "Rest API"
             },
             {
-                "skillImage": "C#-full.png",
+                "skillImage": "C#-logo.png",
                 "skillName": "C#"
             },
             {
-                "skillImage": "es6-full.jpeg",
+                "skillImage": "es6-logo.jpeg",
                 "skillName": "ES6"
             }
         ]
@@ -78,7 +78,7 @@
     {
         "design": [
             {
-                "skillImage": "adobe-xd-logo-full.png",
+                "skillImage": "adobe-xd.png",
                 "skillName": "Adobe XD"
             }
         ]
@@ -86,7 +86,7 @@
     {
         "tools":[
             {
-                "skillImage": "unity-full.png",
+                "skillImage": "unity-logo.png",
                 "skillName": "Unity"
             }
         ]

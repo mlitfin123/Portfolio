@@ -43,7 +43,7 @@ return (
         <div className="project-container">
             <h3>{title}</h3>
                     {getLinks(liveSite, gitRepo)}
-                <img className="img-fluid" src={process.env.PUBLIC_URL + "images/project_thumbnails/" + projectImg} alt={title} />
+                <img className="img-fluid" src={process.env.PUBLIC_URL + "../images/" + projectImg} alt={title} />
                 <ul className="nav nav-tabs col-sm-12" role="tablist">
                     <li className="nav-item">
                         <button className={tabState.tab === 'Description' ? 'nav-link active' : 'nav-link'} onClick={() => setTabState({tab: 'Description'})} data-toggle="tab" role="tab" aria-controls="Description" aria-selected="true">Description</button>

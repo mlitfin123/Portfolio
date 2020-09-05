@@ -3,10 +3,10 @@
         "C#": [{
             "id": 1,
             "title": "Space Shooter Game",
-            "liveSite": "https://the-happenings-app.herokuapp.com/",
+            "liveSite": "https://simmer.io/@mlit123/space-shooter",
             "gitRepo": "https://github.com/mlitfin123/Space_Shooter_Unity",
-            "projectImg": " ",
-            "description": " ",
+            "projectImg": "Space_Shooter icon.png",
+            "description": "This is a one player space shooter game created with Unity. The player controls a ship and navigates through 20 levels while destroying and avoiding various enemies and obstacles along the way.",
             "technologies": [
                 {
                     "techImg": "html5-logo.png",
@@ -27,10 +27,9 @@
         {
             "id": 2,
             "title": "Candy Run",
-            "liveSite": "https://the-happenings-app.herokuapp.com/",
             "gitRepo": "https://github.com/mlitfin123/CandyRun",
-            "projectImg": " ",
-            "description": " ",
+            "projectImg": "candy_run_thumbnail.PNG",
+            "description": "This is a creative board game made with Unity to make exercising more enjoyable. The players roll a dice and a card flips telling the players what their next workout will consist of.",
             "technologies": [
                 {
                     "techImg": "html5-logo.png",
@@ -52,10 +51,10 @@
         "Games": [{
             "id": 1,
             "title": "Space Shooter Game",
-            "liveSite": "https://the-happenings-app.herokuapp.com/",
+            "liveSite": "https://simmer.io/@mlit123/space-shooter",
             "gitRepo": "https://github.com/mlitfin123/Space_Shooter_Unity",
-            "projectImg": " ",
-            "description": " ",
+            "projectImg": "Space_Shooter icon.png",
+            "description": "This is a one player space shooter game created with Unity. The player controls a ship and navigates through 20 levels while destroying and avoiding various enemies and obstacles along the way.",
             "technologies": [
                 {
                     "techImg": "html5-logo.png",
@@ -78,8 +77,8 @@
             "title": "War Game",
             "liveSite": "https://the-happenings-app.herokuapp.com/",
             "gitRepo": "https://github.com/mlitfin123/War_Game",
-            "projectImg": " ",
-            "description": " ",
+            "projectImg": "war_game_thumbnail.PNG",
+            "description": "This is a 3rd person shooter game. The player takes control of a soldier in a battlefield and advances through increasingly difficult levels while trying to outlast the onslaught of enemies.",
             "technologies": [
                 {
                     "techImg": "html5-logo.png",
@@ -101,10 +100,34 @@
         "Js": [{
             "id": 20,
             "title": "NBA Web Application",
-            "liveSite": "https://the-happenings-app.herokuapp.com/",
+            "liveSite": "https://nbaproject2.herokuapp.com/",
             "gitRepo": "https://github.com/mlitfin123/NBA-Project2",
-            "projectImg": " ",
-            "description": " ",
+            "projectImg": "NBA_project_thumbnail.PNG",
+            "description": "This web application displays various upcoming NBA news and schedules for the teams across the league.",
+            "technologies": [
+                {
+                    "techImg": "html5-logo.png",
+                    "techName": "HTML5"
+                }
+            ],
+            "software": [
+                {
+                    "techImg": "visual-studio-logo.png",
+                    "techName": "Visual Studio"
+                },
+                {
+                    "techImg": "robo3t-logo.png",
+                    "techName": "Robo 3T"
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "title": "Weather Tracker Application",
+            "liveSite": "https://mlitfin123.github.io/Project_Weather_App/",
+            "gitRepo": "https://github.com/mlitfin123/Project_Weather_App",
+            "projectImg": "weather_app_thumbnail.PNG",
+            "description": "This is a simple weather application that allows the user to enter a city name and see the current day's weather and the 5 day forecast. The application makes use of the OpenWeather API to retrieve all the data and allows the user to see their most recent search.",
             "technologies": [
                 {
                     "techImg": "html5-logo.png",
@@ -125,10 +148,9 @@
         {
             "id": 20,
             "title": "Employee Tracker",
-            "liveSite": "https://the-happenings-app.herokuapp.com/",
             "gitRepo": "https://github.com/mlitfin123/Project-Employee-Tracker",
-            "projectImg": " ",
-            "description": " ",
+            "projectImg": "employee_tracker_thumbnail.PNG",
+            "description": "This application is a useful employee tracker that can be used by management within a company to keep track of current departments, roles, and personnel. It was created using Node.js and establishes a connection to a MySQL server database for communication within the terminal. The SQL queries used to create the database are located in the schema.sql file and the queries to join the tables are in the joins.sql file. Once the database is created and the connection is established the user can then run the server using the node server.js command to view, add, update, or delete the data in the database through the terminal.",
             "technologies": [
                 {
                     "techImg": "html5-logo.png",
@@ -148,11 +170,10 @@
         },
         {
             "id": 20,
-            "title": "Automatic Readme Generator",
-            "liveSite": "https://the-happenings-app.herokuapp.com/",
-            "gitRepo": "https://github.com/mlitfin123/Project-Readme_Generator",
-            "projectImg": " ",
-            "description": " ",
+            "title": "Note Taker",
+            "gitRepo": "https://github.com/mlitfin123/Project-Note-Taker",
+            "projectImg": "",
+            "description": "The user can then manually enter notes, save the notes, and delete the notes as needed. The notes are stored as a JSON in the db.json file and displayed in the browser for the user to view.",
             "technologies": [
                 {
                     "techImg": "html5-logo.png",
@@ -173,10 +194,9 @@
         {
             "id": 20,
             "title": "Employee Summary",
-            "liveSite": "https://the-happenings-app.herokuapp.com/",
-            "gitRepo": "https://github.com/mlitfin123/Project-Note-Taker",
-            "projectImg": " ",
-            "description": " ",
+            "gitRepo": "https://github.com/mlitfin123/Project-Employee-Summary",
+            "projectImg": "employee_summary_thumbnail.PNG",
+            "description": "There are three employee categories to choose from: Manager, Engineer, and Intern. Name, id, and email are asked for all employee types. However other questions are specific to the type of employee. For instance, a Manager will be asked to enter an office number, while an Engineer will be asked for their GitHub username, and an Intern will be asked for the school they attended. Once the user is finished entering their employees the user can then enter n into the keyboard when prompted for another user. Once the user is finished entering all employees the application uses the entered data and compiles it into an html file and exports it into the output folder. The user can then view the result team.html page in their browser.",
             "technologies": [
                 {
                     "techImg": "html5-logo.png",
@@ -199,8 +219,31 @@
             "title": "Burger Application",
             "liveSite": "https://arcane-mountain-75010.herokuapp.com/",
             "gitRepo": "https://github.com/mlitfin123/Project-BurgerApp",
-            "projectImg": " ",
-            "description": " ",
+            "projectImg": "burger_app_thumbnail.PNG",
+            "description": "The user can manually enter a burger he or she would like to consume which then gets added to the database and displays on screen. Once the burger has been consumed the button can be clicked to have it added to the Devoured section. On the back-end the burger is updated in the database to reflect it has been consumed. If the user wishes he or she can then select the button to delete the burger from the database.",
+            "technologies": [
+                {
+                    "techImg": "html5-logo.png",
+                    "techName": "HTML5"
+                }
+            ],
+            "software": [
+                {
+                    "techImg": "visual-studio-logo.png",
+                    "techName": "Visual Studio"
+                },
+                {
+                    "techImg": "robo3t-logo.png",
+                    "techName": "Robo 3T"
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "title": "Automatic Readme Generator",
+            "gitRepo": "https://github.com/mlitfin123/Project-Readme_Generator",
+            "projectImg": "readme_generator_thumbnail.PNG",
+            "description": "This application creates a readme when invoked from the command line.",
             "technologies": [
                 {
                     "techImg": "html5-logo.png",
@@ -224,8 +267,8 @@
             "title": "User Directory",
             "liveSite": "https://directoryofusers.herokuapp.com/",
             "gitRepo": "https://github.com/mlitfin123/Project-UserDirectory",
-            "projectImg": " ",
-            "description": " ",
+            "projectImg": "user_directory_thumbnail.PNG",
+            "description": "A random user generator API was used to insert up to 50 users randomly into a table to be viewed on screen. The application then allows capability for a user to either be searched for by name or for all employees to be sorted alphabetically by name.",
             "technologies": [
                 {
                     "techImg": "html5-logo.png",
@@ -247,10 +290,9 @@
             "Python": [{
                 "id": 1,
                 "title": "Exercise Entry",
-                "liveSite": "",
                 "gitRepo": "https://github.com/mlitfin123/Exercise_Entry",
-                "projectImg": " ",
-                "description": " ",
+                "projectImg": "exercise_scheduler_thumbnail.PNG",
+                "description": "This simple application was created to allow a user to manually enter exercises for later workouts.",
                 "technologies": [
                     {
                         "techImg": "html5-logo.png",
@@ -271,10 +313,9 @@
             {
             "id": 2,
             "title": "War Game",
-            "liveSite": "",
             "gitRepo": "https://github.com/mlitfin123/War_Game",
-            "projectImg": " ",
-            "description": " ",
+            "projectImg": "war_game_thumbnail.PNG",
+            "description": "This is a 3rd person shooter game. The player takes control of a soldier in a battlefield and advances through increasingly difficult levels while trying to outlast the onslaught of enemies.",
             "technologies": [
                 {
                     "techImg": "html5-logo.png",
@@ -296,10 +337,10 @@
         "Unity": [{
             "id": 1,
             "title": "Space Shooter Game",
-            "liveSite": "",
+            "liveSite": "https://simmer.io/@mlit123/space-shooter",
             "gitRepo": "https://github.com/mlitfin123/Space_Shooter_Unity",
-            "projectImg": " ",
-            "description": " ",
+            "projectImg": "Space_Shooter icon.png",
+            "description": "This is a one player space shooter game created with Unity. The player controls a ship and navigates through 20 levels while destroying and avoiding various enemies and obstacles along the way.",
             "technologies": [
                 {
                     "techImg": "html5-logo.png",
@@ -320,10 +361,9 @@
         {
             "id": 2,
             "title": "Candy Run",
-            "liveSite": "",
             "gitRepo": "https://github.com/mlitfin123/CandyRun",
-            "projectImg": " ",
-            "description": " ",
+            "projectImg": "candy_run_thumbnail.PNG",
+            "description": "This is a creative board game made with Unity to make exercising more enjoyable. The players roll a dice and a card flips telling the players what their next workout will consist of.",
             "technologies": [
                 {
                     "techImg": "html5-logo.png",
@@ -347,8 +387,8 @@
             "title": "NBA Web Application",
             "liveSite": "https://nbaproject2.herokuapp.com/",
             "gitRepo": "https://github.com/mlitfin123/NBA-Project2",
-            "projectImg": " ",
-            "description": " ",
+            "projectImg": "NBA_project_thumbnail.PNG",
+            "description": "This web application displays various upcoming NBA news and schedules for the teams across the league.",
             "technologies": [
                 {
                     "techImg": "html5-logo.png",
@@ -369,10 +409,10 @@
         {
             "id": 20,
             "title": "Burger Application",
-            "liveSite": "https://mlitfin123.github.io/Project_Weather_App/",
-            "gitRepo": "https://github.com/mlitfin123/Project_Weather_App",
-            "projectImg": " ",
-            "description": " ",
+            "liveSite": "https://arcane-mountain-75010.herokuapp.com/",
+            "gitRepo": "https://github.com/mlitfin123/Project-BurgerApp",
+            "projectImg": "burger_app_thumbnail.PNG",
+            "description": "The user can manually enter a burger he or she would like to consume which then gets added to the database and displays on screen. Once the burger has been consumed the button can be clicked to have it added to the Devoured section. On the back-end the burger is updated in the database to reflect it has been consumed. If the user wishes he or she can then select the button to delete the burger from the database.",
             "technologies": [
                 {
                     "techImg": "html5-logo.png",
@@ -395,8 +435,8 @@
             "title": "Workday Scheduler Application",
             "liveSite": "https://mlitfin123.github.io/Project_Workday_Scheduler/",
             "gitRepo": "https://github.com/mlitfin123/Project_Workday_Scheduler",
-            "projectImg": " ",
-            "description": " ",
+            "projectImg": "workday_scheduler_thumbnail.PNG",
+            "description": "This web application gives the user the ability to add various tasks to a calendar to help schedule the workday.",
             "technologies": [
                 {
                     "techImg": "html5-logo.png",
@@ -419,8 +459,8 @@
             "title": "Developer's Code Quiz",
             "liveSite": "https://mlitfin123.github.io/Project_Code_Quiz/",
             "gitRepo": "https://github.com/mlitfin123/Project_Code_Quiz",
-            "projectImg": " ",
-            "description": " ",
+            "projectImg": "coding_challenge_thumbnail.PNG",
+            "description": "This project creates a quiz for web developers which allows them to answer questions one at a time and then save their score locally to the web browser.",
             "technologies": [
                 {
                     "techImg": "html5-logo.png",
@@ -443,8 +483,8 @@
             "title": "Fitness Tracker",
             "liveSite": "https://fittertracker.herokuapp.com/?id=5f3c6a326086910017d2336d",
             "gitRepo": "https://github.com/mlitfin123/Project-FitnessTracker",
-            "projectImg": " ",
-            "description": " ",
+            "projectImg": "fitness_tracker_thumbnail.PNG",
+            "description": "This fitness tracker allows users to create new daily workouts and add new exercises to the workout as they are completed. The user can then either continue the workout and add new exercises at a later date or create a brand new workout to track. After the workouts are added it is possible to view the workout progress from the Fitness Tracker Dashboard.",
             "technologies": [
                 {
                     "techImg": "html5-logo.png",
@@ -467,8 +507,32 @@
             "title": "Budget Tracker",
             "liveSite": "https://yourbudgettracker.herokuapp.com/",
             "gitRepo": "https://github.com/mlitfin123/Project-BudgetTracker",
-            "projectImg": " ",
-            "description": " ",
+            "projectImg": "budget_tracker_thumbnail.PNG",
+            "description": "The user can track their budget overtime by entering the name of an activity or product and either subtracting or adding to their current funds. The application gives the user the ability to add expenses or deposits either with a connection or without and to view each transaction on screen and with a graph indicating whether or not the deposits outweigh the expenses. The application also gives the user the ability to delete all transactions if desired.",
+            "technologies": [
+                {
+                    "techImg": "html5-logo.png",
+                    "techName": "HTML5"
+                }
+            ],
+            "software": [
+                {
+                    "techImg": "visual-studio-logo.png",
+                    "techName": "Visual Studio"
+                },
+                {
+                    "techImg": "robo3t-logo.png",
+                    "techName": "Robo 3T"
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "title": "Weather Tracker Application",
+            "liveSite": "https://mlitfin123.github.io/Project_Weather_App/",
+            "gitRepo": "https://github.com/mlitfin123/Project_Weather_App",
+            "projectImg": "weather_app_thumbnail.PNG",
+            "description": "This is a simple weather application that allows the user to enter a city name and see the current day's weather and the 5 day forecast. The application makes use of the OpenWeather API to retrieve all the data and allows the user to see their most recent search.",
             "technologies": [
                 {
                     "techImg": "html5-logo.png",
@@ -491,8 +555,8 @@
             "title": "User Directory",
             "liveSite": "https://directoryofusers.herokuapp.com/",
             "gitRepo": "https://github.com/mlitfin123/Project-UserDirectory",
-            "projectImg": " ",
-            "description": " ",
+            "projectImg": "user_directory_thumbnail.PNG",
+            "description": "A random user generator API was used to insert up to 50 users randomly into a table to be viewed on screen. The application then allows capability for a user to either be searched for by name or for all employees to be sorted alphabetically by name.",
             "technologies": [
                 {
                     "techImg": "html5-logo.png",
