@@ -18,7 +18,7 @@ const About = () => {
                     </div>
                     <div className="col-lg-6">
                         <div className="column-content">
-                        <img src={process.env.PUBLIC_URL + "/images/Mark_Litfin_pic.jpg"} className="img-fluid" alt="Mark was Here" />
+                        <img src={process.env.PUBLIC_URL + "/images/Mark_Litfin.jpg"} className="img-fluid" alt="Mark was Here" />
                     </div>
                     </div>
             </div>

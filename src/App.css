@@ -21,7 +21,9 @@ header {
     float: left;
     background-color: white;
     margin-right: 10px; }
-
+.img-fluid{
+  width: 300px
+}
 #banner {
   min-height: 80px; }
   #banner a.logo-text:hover {
