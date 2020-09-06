@@ -10,7 +10,7 @@ const ProjectNav = () => {
     useEffect(() => {
         
         switch (location.pathname) {
-            case '/portfolio/all':
+            case '/portfolio':
                 setActivePage('all');
             break;
             case '/portfolio/csharp':
@@ -48,7 +48,7 @@ return (
         <div className="collapse navbar-collapse" id="navbarNav">
             <ul className="navbar-nav">
                 <li className="nav-item">
-                    <Link onClick={() => setActivePage('all')} className={activePage === 'all' ? 'nav-link active' : 'nav-link'} to="/portfolio/all">All</Link>
+                    <Link onClick={() => setActivePage('all')} className={activePage === 'all' ? 'nav-link active' : 'nav-link'} to="/portfolio">All</Link>
                 </li>
                 <li className="nav-item">
                     <Link onClick={() => setActivePage('csharp')} className={activePage === 'csharp' ? 'nav-link active' : 'nav-link'} to="/portfolio/csharp">C#</Link>

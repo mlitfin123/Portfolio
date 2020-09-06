@@ -17,7 +17,7 @@ const ProjectList = () => {
             <Router>
             <ProjectNav />
             <Switch />
-            <Route exact path="/portfolio/All" component={AllList} />
+            <Route exact path="/portfolio" component={AllList} />
             <Route exact path="/portfolio/Csharp" component={CSharpList} />
             <Route exact path="/portfolio/Games" component={GamesList} />
             <Route exact path="/portfolio/Js" component={JsList} />
