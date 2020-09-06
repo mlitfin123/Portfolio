@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import TechItem from '../TechItem';
+import TechItem from '../Techitem.js';
 
 const Project = props => {
 

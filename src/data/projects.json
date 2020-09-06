@@ -9,18 +9,18 @@
             "description": "This is a one player space shooter game created with Unity. The player controls a ship and navigates through 20 levels while destroying and avoiding various enemies and obstacles along the way.",
             "technologies": [
                 {
-                    "techImg": "html5-logo.png",
-                    "techName": "HTML5"
+                    "techName": "C#"
+                },
+                {
+                    "techName": "Git Hub"
                 }
             ],
             "software": [
                 {
-                    "techImg": "visual-studio-logo.png",
                     "techName": "Visual Studio"
                 },
                 {
-                    "techImg": "robo3t-logo.png",
-                    "techName": "Robo 3T"
+                    "techName": "Unity"
                 }
             ]
         },
@@ -32,18 +32,18 @@
             "description": "This is a creative board game made with Unity to make exercising more enjoyable. The players roll a dice and a card flips telling the players what their next workout will consist of.",
             "technologies": [
                 {
-                    "techImg": "html5-logo.png",
-                    "techName": "HTML5"
+                    "techName": "C#"
+                },
+                {
+                    "techName": "Git Hub"
                 }
             ],
             "software": [
                 {
-                    "techImg": "visual-studio-logo.png",
                     "techName": "Visual Studio"
                 },
                 {
-                    "techImg": "robo3t-logo.png",
-                    "techName": "Robo 3T"
+                    "techName": "Unity"
                 }
             ]
         }
@@ -57,18 +57,18 @@
             "description": "This is a one player space shooter game created with Unity. The player controls a ship and navigates through 20 levels while destroying and avoiding various enemies and obstacles along the way.",
             "technologies": [
                 {
-                    "techImg": "html5-logo.png",
-                    "techName": "HTML5"
+                    "techName": "C#"
+                },
+                {
+                    "techName": "Git Hub"
                 }
             ],
             "software": [
                 {
-                    "techImg": "visual-studio-logo.png",
                     "techName": "Visual Studio"
                 },
                 {
-                    "techImg": "robo3t-logo.png",
-                    "techName": "Robo 3T"
+                    "techName": "Unity"
                 }
             ]
         },
@@ -81,19 +81,14 @@
             "description": "This is a 3rd person shooter game. The player takes control of a soldier in a battlefield and advances through increasingly difficult levels while trying to outlast the onslaught of enemies.",
             "technologies": [
                 {
-                    "techImg": "html5-logo.png",
-                    "techName": "HTML5"
+                    "techName": "Python"
+                },
+                {
+                    "techName": "Turtle"
                 }
             ],
             "software": [
-                {
-                    "techImg": "visual-studio-logo.png",
-                    "techName": "Visual Studio"
-                },
-                {
-                    "techImg": "robo3t-logo.png",
-                    "techName": "Robo 3T"
-                }
+    
             ]
         }
     ],
@@ -106,18 +101,42 @@
             "description": "This web application displays various upcoming NBA news and schedules for the teams across the league.",
             "technologies": [
                 {
-                    "techImg": "html5-logo.png",
                     "techName": "HTML5"
+                },
+                {
+                    "techName": "CSS3"
+                },
+                {
+                    "techName": "Javascript"
+                },
+                {
+                    "techName": "Node JS"
+                },
+                {
+                    "techName": "Node Package Manager"
+                },
+                {
+                    "techName": "React JS"
+                },
+                {
+                    "techName": "Git Hub"
+                },
+                {
+                    "techName": "JAWS_DB"
+                },
+                {
+                    "techName": "Node Package Manager"
+                },
+                {
+                    "techName": "MySQL"
                 }
             ],
             "software": [
                 {
-                    "techImg": "visual-studio-logo.png",
                     "techName": "Visual Studio"
                 },
                 {
-                    "techImg": "robo3t-logo.png",
-                    "techName": "Robo 3T"
+                    "techName": "MYSQL WorkBench"
                 }
             ]
         },
@@ -130,18 +149,33 @@
             "description": "This is a simple weather application that allows the user to enter a city name and see the current day's weather and the 5 day forecast. The application makes use of the OpenWeather API to retrieve all the data and allows the user to see their most recent search.",
             "technologies": [
                 {
-                    "techImg": "html5-logo.png",
                     "techName": "HTML5"
+                },
+                {
+                    "techName": "CSS3"
+                },
+                {
+                    "techName": "Rest API"
+                },
+                {
+                    "techName": "Javascript"
+                },
+                {
+                    "techName": "JQuery"
+                },
+                {
+                    "techName": "Bootstrap"
+                },
+                {
+                    "techName": "Moment JS"
+                },
+                {
+                    "techName": "Git Hub"
                 }
             ],
             "software": [
                 {
-                    "techImg": "visual-studio-logo.png",
                     "techName": "Visual Studio"
-                },
-                {
-                    "techImg": "robo3t-logo.png",
-                    "techName": "Robo 3T"
                 }
             ]
         },
@@ -153,41 +187,27 @@
             "description": "This application is a useful employee tracker that can be used by management within a company to keep track of current departments, roles, and personnel. It was created using Node.js and establishes a connection to a MySQL server database for communication within the terminal. The SQL queries used to create the database are located in the schema.sql file and the queries to join the tables are in the joins.sql file. Once the database is created and the connection is established the user can then run the server using the node server.js command to view, add, update, or delete the data in the database through the terminal.",
             "technologies": [
                 {
-                    "techImg": "html5-logo.png",
-                    "techName": "HTML5"
+                    "techName": "Javascript"
+                },
+                {
+                    "techName": "Node JS"
+                },
+                {
+                    "techName": "MYSQL"
+                },
+                {
+                    "techName": "Node Package Manager"
+                },
+                {
+                    "techName": "Git Hub"
                 }
             ],
             "software": [
                 {
-                    "techImg": "visual-studio-logo.png",
                     "techName": "Visual Studio"
                 },
                 {
-                    "techImg": "robo3t-logo.png",
-                    "techName": "Robo 3T"
-                }
-            ]
-        },
-        {
-            "id": 20,
-            "title": "Note Taker",
-            "gitRepo": "https://github.com/mlitfin123/Project-Note-Taker",
-            "projectImg": "",
-            "description": "The user can then manually enter notes, save the notes, and delete the notes as needed. The notes are stored as a JSON in the db.json file and displayed in the browser for the user to view.",
-            "technologies": [
-                {
-                    "techImg": "html5-logo.png",
-                    "techName": "HTML5"
-                }
-            ],
-            "software": [
-                {
-                    "techImg": "visual-studio-logo.png",
-                    "techName": "Visual Studio"
-                },
-                {
-                    "techImg": "robo3t-logo.png",
-                    "techName": "Robo 3T"
+                    "techName": "MYSQL WorkBench"
                 }
             ]
         },
@@ -199,18 +219,33 @@
             "description": "There are three employee categories to choose from: Manager, Engineer, and Intern. Name, id, and email are asked for all employee types. However other questions are specific to the type of employee. For instance, a Manager will be asked to enter an office number, while an Engineer will be asked for their GitHub username, and an Intern will be asked for the school they attended. Once the user is finished entering their employees the user can then enter n into the keyboard when prompted for another user. Once the user is finished entering all employees the application uses the entered data and compiles it into an html file and exports it into the output folder. The user can then view the result team.html page in their browser.",
             "technologies": [
                 {
-                    "techImg": "html5-logo.png",
                     "techName": "HTML5"
+                },
+                {
+                    "techName": "CSS3"
+                },
+                {
+                    "techName": "Javascript"
+                },
+                {
+                    "techName": "Node JS"
+                },
+                {
+                    "techName": "Node Package Manager"
+                },
+                {
+                    "techName": "React JS"
+                },
+                {
+                    "techName": "Node Package Manager"
+                },
+                {
+                    "techName": "Git Hub"
                 }
             ],
             "software": [
                 {
-                    "techImg": "visual-studio-logo.png",
                     "techName": "Visual Studio"
-                },
-                {
-                    "techImg": "robo3t-logo.png",
-                    "techName": "Robo 3T"
                 }
             ]
         },
@@ -223,18 +258,42 @@
             "description": "The user can manually enter a burger he or she would like to consume which then gets added to the database and displays on screen. Once the burger has been consumed the button can be clicked to have it added to the Devoured section. On the back-end the burger is updated in the database to reflect it has been consumed. If the user wishes he or she can then select the button to delete the burger from the database.",
             "technologies": [
                 {
-                    "techImg": "html5-logo.png",
                     "techName": "HTML5"
+                },
+                {
+                    "techName": "CSS3"
+                },
+                {
+                    "techName": "Node JS"
+                },
+                {
+                    "techName": "Express JS"
+                },
+                {
+                    "techName": "Handlebars JS"
+                },
+                {
+                    "techName": "Node Package Manager"
+                },
+                {
+                    "techName": "Javascript"
+                },
+                {
+                    "techName": "JQuery"
+                },
+                {
+                    "techName": "MySQL"
+                },
+                {
+                    "techName": "Git Hub"
                 }
             ],
             "software": [
                 {
-                    "techImg": "visual-studio-logo.png",
                     "techName": "Visual Studio"
                 },
                 {
-                    "techImg": "robo3t-logo.png",
-                    "techName": "Robo 3T"
+                    "techName": "MySQL Workbench"
                 }
             ]
         },
@@ -246,18 +305,21 @@
             "description": "This application creates a readme when invoked from the command line.",
             "technologies": [
                 {
-                    "techImg": "html5-logo.png",
-                    "techName": "HTML5"
+                    "techName": "Javascript"
+                },
+                {
+                    "techName": "MarkDown"
+                },
+                {
+                    "techName": "Node Package Manager"
+                },
+                {
+                    "techName": "Git Hub"
                 }
             ],
             "software": [
                 {
-                    "techImg": "visual-studio-logo.png",
                     "techName": "Visual Studio"
-                },
-                {
-                    "techImg": "robo3t-logo.png",
-                    "techName": "Robo 3T"
                 }
             ]
         }
@@ -271,19 +333,36 @@
             "description": "A random user generator API was used to insert up to 50 users randomly into a table to be viewed on screen. The application then allows capability for a user to either be searched for by name or for all employees to be sorted alphabetically by name.",
             "technologies": [
                 {
-                    "techImg": "html5-logo.png",
                     "techName": "HTML5"
-                }
-            ],
-            "software": [
-                {
-                    "techImg": "visual-studio-logo.png",
-                    "techName": "Visual Studio"
                 },
                 {
-                    "techImg": "robo3t-logo.png",
-                    "techName": "Robo 3T"
+                    "techName": "CSS3"
+                },
+                {
+                    "techName": "Node JS"
+                },
+                {
+                    "techName": "Node Package Manager"
+                },
+                {
+                    "techName": "React JS"
+                },
+                {
+                    "techName": "Rest API"
+                },
+                {
+                    "techName": "Javascript"
+                },
+                {
+                    "techName": "Bootstrap"
+                },
+                {
+                    "techName": "Git Hub"
                 }
+            ],
+            "software": [{
+                "techName": "Visual Studio"
+            }
             ]
         }
     ],
@@ -295,19 +374,14 @@
                 "description": "This simple application was created to allow a user to manually enter exercises for later workouts.",
                 "technologies": [
                     {
-                        "techImg": "html5-logo.png",
-                        "techName": "HTML5"
+                        "techName": "Python"
+                    },
+                    {
+                        "techName": "Tkinter"
                     }
                 ],
                 "software": [
-                    {
-                        "techImg": "visual-studio-logo.png",
-                        "techName": "Visual Studio"
-                    },
-                    {
-                        "techImg": "robo3t-logo.png",
-                        "techName": "Robo 3T"
-                    }
+        
                 ]
             },
             {
@@ -318,19 +392,14 @@
             "description": "This is a 3rd person shooter game. The player takes control of a soldier in a battlefield and advances through increasingly difficult levels while trying to outlast the onslaught of enemies.",
             "technologies": [
                 {
-                    "techImg": "html5-logo.png",
-                    "techName": "HTML5"
+                    "techName": "Python"
+                },
+                {
+                    "techName": "Turtle"
                 }
             ],
             "software": [
-                {
-                    "techImg": "visual-studio-logo.png",
-                    "techName": "Visual Studio"
-                },
-                {
-                    "techImg": "robo3t-logo.png",
-                    "techName": "Robo 3T"
-                }
+    
             ]
         }
         ],
@@ -343,18 +412,18 @@
             "description": "This is a one player space shooter game created with Unity. The player controls a ship and navigates through 20 levels while destroying and avoiding various enemies and obstacles along the way.",
             "technologies": [
                 {
-                    "techImg": "html5-logo.png",
-                    "techName": "HTML5"
+                    "techName": "C#"
+                },
+                {
+                    "techName": "Git Hub"
                 }
             ],
             "software": [
                 {
-                    "techImg": "visual-studio-logo.png",
                     "techName": "Visual Studio"
                 },
                 {
-                    "techImg": "robo3t-logo.png",
-                    "techName": "Robo 3T"
+                    "techName": "Unity"
                 }
             ]
         },
@@ -366,18 +435,18 @@
             "description": "This is a creative board game made with Unity to make exercising more enjoyable. The players roll a dice and a card flips telling the players what their next workout will consist of.",
             "technologies": [
                 {
-                    "techImg": "html5-logo.png",
-                    "techName": "HTML5"
+                    "techName": "C#"
+                },
+                {
+                    "techName": "Git Hub"
                 }
             ],
             "software": [
                 {
-                    "techImg": "visual-studio-logo.png",
                     "techName": "Visual Studio"
                 },
                 {
-                    "techImg": "robo3t-logo.png",
-                    "techName": "Robo 3T"
+                    "techName": "Unity"
                 }
             ]
         }
@@ -391,18 +460,42 @@
             "description": "This web application displays various upcoming NBA news and schedules for the teams across the league.",
             "technologies": [
                 {
-                    "techImg": "html5-logo.png",
                     "techName": "HTML5"
+                },
+                {
+                    "techName": "CSS3"
+                },
+                {
+                    "techName": "Javascript"
+                },
+                {
+                    "techName": "Node JS"
+                },
+                {
+                    "techName": "Node Package Manager"
+                },
+                {
+                    "techName": "React JS"
+                },
+                {
+                    "techName": "Git Hub"
+                },
+                {
+                    "techName": "JAWS_DB"
+                },
+                {
+                    "techName": "Node Package Manager"
+                },
+                {
+                    "techName": "MySQL"
                 }
             ],
             "software": [
                 {
-                    "techImg": "visual-studio-logo.png",
                     "techName": "Visual Studio"
                 },
                 {
-                    "techImg": "robo3t-logo.png",
-                    "techName": "Robo 3T"
+                    "techName": "MYSQL WorkBench"
                 }
             ]
         },
@@ -415,18 +508,42 @@
             "description": "The user can manually enter a burger he or she would like to consume which then gets added to the database and displays on screen. Once the burger has been consumed the button can be clicked to have it added to the Devoured section. On the back-end the burger is updated in the database to reflect it has been consumed. If the user wishes he or she can then select the button to delete the burger from the database.",
             "technologies": [
                 {
-                    "techImg": "html5-logo.png",
                     "techName": "HTML5"
+                },
+                {
+                    "techName": "CSS3"
+                },
+                {
+                    "techName": "Node JS"
+                },
+                {
+                    "techName": "Express JS"
+                },
+                {
+                    "techName": "Handlebars JS"
+                },
+                {
+                    "techName": "Node Package Manager"
+                },
+                {
+                    "techName": "Javascript"
+                },
+                {
+                    "techName": "JQuery"
+                },
+                {
+                    "techName": "MySQL"
+                },
+                {
+                    "techName": "Git Hub"
                 }
             ],
             "software": [
                 {
-                    "techImg": "visual-studio-logo.png",
                     "techName": "Visual Studio"
                 },
                 {
-                    "techImg": "robo3t-logo.png",
-                    "techName": "Robo 3T"
+                    "techName": "MySQL Workbench"
                 }
             ]
         },
@@ -439,18 +556,30 @@
             "description": "This web application gives the user the ability to add various tasks to a calendar to help schedule the workday.",
             "technologies": [
                 {
-                    "techImg": "html5-logo.png",
                     "techName": "HTML5"
+                },
+                {
+                    "techName": "CSS3"
+                },
+                {
+                    "techName": "Javascript"
+                },
+                {
+                    "techName": "JQuery"
+                },
+                {
+                    "techName": "Bootstrap"
+                },
+                {
+                    "techName": "Moment JS"
+                },
+                {
+                    "techName": "Git Hub"
                 }
             ],
             "software": [
                 {
-                    "techImg": "visual-studio-logo.png",
                     "techName": "Visual Studio"
-                },
-                {
-                    "techImg": "robo3t-logo.png",
-                    "techName": "Robo 3T"
                 }
             ]
         },
@@ -463,18 +592,24 @@
             "description": "This project creates a quiz for web developers which allows them to answer questions one at a time and then save their score locally to the web browser.",
             "technologies": [
                 {
-                    "techImg": "html5-logo.png",
                     "techName": "HTML5"
+                },
+                {
+                    "techName": "CSS3"
+                },
+                {
+                    "techName": "Javascript"
+                },
+                {
+                    "techName": "Bootstrap"
+                },
+                {
+                    "techName": "Git Hub"
                 }
             ],
             "software": [
                 {
-                    "techImg": "visual-studio-logo.png",
                     "techName": "Visual Studio"
-                },
-                {
-                    "techImg": "robo3t-logo.png",
-                    "techName": "Robo 3T"
                 }
             ]
         },
@@ -487,17 +622,44 @@
             "description": "This fitness tracker allows users to create new daily workouts and add new exercises to the workout as they are completed. The user can then either continue the workout and add new exercises at a later date or create a brand new workout to track. After the workouts are added it is possible to view the workout progress from the Fitness Tracker Dashboard.",
             "technologies": [
                 {
-                    "techImg": "html5-logo.png",
                     "techName": "HTML5"
+                },
+                {
+                    "techName": "CSS3"
+                },
+                {
+                    "techName": "Node JS"
+                },
+                {
+                    "techName": "Express JS"
+                },
+                {
+                    "techName": "Node Package Manager"
+                },
+                {
+                    "techName": "Mongo DB"
+                },
+                {
+                    "techName": "Mongoose JS"
+                },
+                {
+                    "techName": "Javascript"
+                },
+                {
+                    "techName": "JQuery"
+                },
+                {
+                    "techName": "Bootstrap"
+                },
+                {
+                    "techName": "Git Hub"
                 }
             ],
             "software": [
                 {
-                    "techImg": "visual-studio-logo.png",
                     "techName": "Visual Studio"
                 },
                 {
-                    "techImg": "robo3t-logo.png",
                     "techName": "Robo 3T"
                 }
             ]
@@ -511,17 +673,44 @@
             "description": "The user can track their budget overtime by entering the name of an activity or product and either subtracting or adding to their current funds. The application gives the user the ability to add expenses or deposits either with a connection or without and to view each transaction on screen and with a graph indicating whether or not the deposits outweigh the expenses. The application also gives the user the ability to delete all transactions if desired.",
             "technologies": [
                 {
-                    "techImg": "html5-logo.png",
                     "techName": "HTML5"
+                },
+                {
+                    "techName": "CSS3"
+                },
+                {
+                    "techName": "Node JS"
+                },
+                {
+                    "techName": "Express JS"
+                },
+                {
+                    "techName": "Node Package Manager"
+                },
+                {
+                    "techName": "Mongo DB"
+                },
+                {
+                    "techName": "Mongoose JS"
+                },
+                {
+                    "techName": "Javascript"
+                },
+                {
+                    "techName": "JQuery"
+                },
+                {
+                    "techName": "Bootstrap"
+                },
+                {
+                    "techName": "Git Hub"
                 }
             ],
             "software": [
                 {
-                    "techImg": "visual-studio-logo.png",
                     "techName": "Visual Studio"
                 },
                 {
-                    "techImg": "robo3t-logo.png",
                     "techName": "Robo 3T"
                 }
             ]
@@ -559,19 +748,36 @@
             "description": "A random user generator API was used to insert up to 50 users randomly into a table to be viewed on screen. The application then allows capability for a user to either be searched for by name or for all employees to be sorted alphabetically by name.",
             "technologies": [
                 {
-                    "techImg": "html5-logo.png",
                     "techName": "HTML5"
-                }
-            ],
-            "software": [
-                {
-                    "techImg": "visual-studio-logo.png",
-                    "techName": "Visual Studio"
                 },
                 {
-                    "techImg": "robo3t-logo.png",
-                    "techName": "Robo 3T"
+                    "techName": "CSS3"
+                },
+                {
+                    "techName": "Node JS"
+                },
+                {
+                    "techName": "Node Package Manager"
+                },
+                {
+                    "techName": "React JS"
+                },
+                {
+                    "techName": "Rest API"
+                },
+                {
+                    "techName": "Javascript"
+                },
+                {
+                    "techName": "Bootstrap"
+                },
+                {
+                    "techName": "Git Hub"
                 }
+            ],
+            "software": [{
+                "techName": "Visual Studio"
+            }
             ]
         }
     ]
