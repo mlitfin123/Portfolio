@@ -8,7 +8,7 @@ function TechItem(props) {
     <div className="tech-icons">
         {name}
     </div>
-)
+    )
 }
 
 export default TechItem;
