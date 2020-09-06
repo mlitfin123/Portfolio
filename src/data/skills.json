@@ -6,7 +6,7 @@
                 "skillName": "HTML5"
             },
             {
-                "skillImage": "css3-logo.png",
+                "skillImage": "css3-logo.jpg",
                 "skillName": "CSS3"
             },
             {
@@ -14,11 +14,11 @@
                 "skillName": "Bootstrap"
             },
             {
-                "skillImage": "javascript-logo.png",
+                "skillImage": "javascript_logo.png",
                 "skillName": "JavaScript"
             },
             {
-                "skillImage": "jquery-logo.jpg",
+                "skillImage": "jquery-logo.png",
                 "skillName": "JQuery"
             },
             {
@@ -38,7 +38,7 @@
                 "skillName": "Node Package Manager"
             },
             {
-                "skillImage": "reactjs-logo.png",
+                "skillImage": "react-js-logo.png",
                 "skillName": "React JS"
             },
             {
@@ -66,7 +66,7 @@
                 "skillName": "Rest API"
             },
             {
-                "skillImage": "C#-logo.png",
+                "skillImage": "C_Sharp_logo.png",
                 "skillName": "C#"
             },
             {

@@ -7,7 +7,7 @@ function TechItem(props) {
 
     return (
     <div className="tech-icons">
-        <img src={process.env.PUBLIC_URL + "images/icons/" + image} width="70" alt={name} />
+        <img src={process.env.PUBLIC_URL + "images/techicons" + image} width="70" alt={name} />
         <br />
         {name}
     </div>
