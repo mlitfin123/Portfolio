@@ -1,5 +1,50 @@
 [
     {
+        "id": 1,
+        "title": "Financial Freedom",
+        "liveSite": "https://financialfreedombudget.herokuapp.com/",
+        "gitRepo": "https://github.com/mlitfin123/FinancialFreedom",
+        "projectImg": "financial_freedom_thumbnail.PNG",
+        "description": "This is an application created to help a user plan for an improved financial future. The application allows the user to track income and expenses so as to help give a visual for how much he or she is spending each day and month. The user can also view stocks and search for other investments to give them an opportunity to grow their money over time.",
+        "technologies": [
+            {
+                "techName": "React"
+            },
+            {
+                "techName": "JSX"
+            },
+            {
+                "techName": "Javascript"
+            },
+            {
+                "techName": "Mongo"
+            },
+            {
+                "techName": "HTML"
+            },
+            {
+                "techName": "CSS"
+            },
+            {
+                "techName": "RestAPI"
+            },
+            {
+                "techName": "Node Package Manager"
+            },
+            {
+                "techName": "Git Hub"
+            }
+        ],
+        "software": [
+            {
+                "techName": "Visual Studio"
+            },
+            {
+                "techName": "Robo3T"
+            }
+        ]
+    },
+    {
         "id": 2,
         "title": "Candy Run",
         "gitRepo": "https://github.com/mlitfin123/CandyRun",
@@ -15,7 +60,6 @@
         ],
         "software": [
             {
-                "techImg": "visual-studio-logo.png",
                 "techName": "Visual Studio"
             },
             {
@@ -24,7 +68,7 @@
         ]
     },
     {
-        "id": 20,
+        "id": 3,
         "title": "NBA Web Application",
         "liveSite": "https://nbaproject2.herokuapp.com/",
         "gitRepo": "https://github.com/mlitfin123/NBA-Project2",
@@ -72,7 +116,7 @@
         ]
     },
     {
-        "id": 20,
+        "id": 4,
         "title": "Employee Tracker",
         "gitRepo": "https://github.com/mlitfin123/Project-Employee-Tracker",
         "projectImg": "employee_tracker_thumbnail.PNG",
@@ -104,7 +148,7 @@
         ]
     },
     {
-        "id": 1,
+        "id": 5,
         "title": "Space Shooter Game",
         "liveSite": "https://simmer.io/@mlit123/space-shooter",
         "gitRepo": "https://github.com/mlitfin123/Space_Shooter_Unity",
@@ -128,7 +172,7 @@
         ]
     },
     {
-        "id": 20,
+        "id": 6,
         "title": "Automatic Readme Generator",
         "gitRepo": "https://github.com/mlitfin123/Project-Readme_Generator",
         "projectImg": "readme_generator_thumbnail.PNG",
@@ -154,7 +198,7 @@
         ]
     },
     {
-        "id": 20,
+        "id": 7,
         "title": "Employee Summary",
         "gitRepo": "https://github.com/mlitfin123/Project-Employee-Summary",
         "projectImg": "employee_summary_thumbnail.PNG",
@@ -192,7 +236,7 @@
         ]
     },
     {
-        "id": 20,
+        "id": 8,
         "title": "Burger Application",
         "liveSite": "https://arcane-mountain-75010.herokuapp.com/",
         "gitRepo": "https://github.com/mlitfin123/Project-BurgerApp",
@@ -240,7 +284,7 @@
         ]
     },
     {
-        "id": 2,
+        "id": 9,
         "title": "War Game",
         "gitRepo": "https://github.com/mlitfin123/War_Game",
         "projectImg": "war_game_thumbnail.PNG",
@@ -258,7 +302,7 @@
         ]
     },
     {
-        "id": 20,
+        "id": 10,
         "title": "User Directory",
         "liveSite": "https://directoryofusers.herokuapp.com/",
         "gitRepo": "https://github.com/mlitfin123/Project-UserDirectory",
@@ -299,7 +343,7 @@
         ]
     },
     {
-        "id": 1,
+        "id": 11,
         "title": "Exercise Entry",
         "gitRepo": "https://github.com/mlitfin123/Exercise_Entry",
         "projectImg": "exercise_scheduler_thumbnail.PNG",
@@ -317,7 +361,7 @@
         ]
     },
     {
-        "id": 20,
+        "id": 12,
         "title": "Workday Scheduler Application",
         "liveSite": "https://mlitfin123.github.io/Project_Workday_Scheduler/",
         "gitRepo": "https://github.com/mlitfin123/Project_Workday_Scheduler",
@@ -353,7 +397,7 @@
         ]
     },
     {
-        "id": 20,
+        "id": 13,
         "title": "Developer's Code Quiz",
         "liveSite": "https://mlitfin123.github.io/Project_Code_Quiz/",
         "gitRepo": "https://github.com/mlitfin123/Project_Code_Quiz",
@@ -383,7 +427,7 @@
         ]
     },
     {
-        "id": 20,
+        "id": 14,
         "title": "Fitness Tracker",
         "liveSite": "https://fittertracker.herokuapp.com/?id=5f3c6a326086910017d2336d",
         "gitRepo": "https://github.com/mlitfin123/Project-FitnessTracker",
@@ -434,7 +478,7 @@
         ]
     },
     {
-        "id": 20,
+        "id": 15,
         "title": "Budget Tracker",
         "liveSite": "https://yourbudgettracker.herokuapp.com/",
         "gitRepo": "https://github.com/mlitfin123/Project-BudgetTracker",
@@ -485,7 +529,7 @@
         ]
     },
     {
-        "id": 20,
+        "id": 16,
         "title": "Automatic Password Generator",
         "liveSite": "https://mlitfin123.github.io/Project_Password_Generator/",
         "gitRepo": "https://github.com/mlitfin123/Project_Password_Generator",
@@ -512,7 +556,7 @@
         ]
     },
     {
-        "id": 20,
+        "id": 17,
         "title": "Weather Tracker Application",
         "liveSite": "https://mlitfin123.github.io/Project_Weather_App/",
         "gitRepo": "https://github.com/mlitfin123/Project_Weather_App",
