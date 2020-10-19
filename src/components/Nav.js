@@ -42,7 +42,7 @@ return (
                     <Link onClick={() => setActivePage('skills')} className={activePage === 'skills' ? 'nav-link active' : 'nav-link'} to="/skills">Skills</Link>
                 </li>
                 <li className="nav-item">
-                    <Link onClick={() => setActivePage('portfolio')} className={activePage === 'portfolio' ? 'nav-link active' : 'nav-link'} to="/portfolio/all">Portfolio</Link>
+                    <Link onClick={() => setActivePage('portfolio')} className={activePage === 'portfolio' ? 'nav-link active' : 'nav-link'} to="/portfolio">Portfolio</Link>
                 </li>
                 <li className="nav-item">
                     <Link onClick={() => setActivePage('contact')} className={activePage === 'contact' ? 'nav-link active' : 'nav-link'} to="/contact">Contact</Link>
